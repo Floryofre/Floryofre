@@ -1,4 +1,5 @@
-![Banner de LinkedIn](Banner de LinkedIn Lugar de Trabajo Ordenado (2).png)
+![Banner de LinkedIn](https://github.com/Floryofre/Floryofre/blob/main/Banner%20de%20LinkedIn%20Lugar%20de%20Trabajo%20Ordenado%20(2).png)
+
 
 ## Hi there 👋
 
