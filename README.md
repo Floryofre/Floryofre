@@ -1,39 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Banner de LinkedIn</title>
-    <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            width: 100%;
-            height: 100%;
-        }
-        .iframe-container {
-            position: relative;
-            width: 100%;
-            height: 0;
-            padding-bottom: 56.25%; /* Relación de aspecto 16:9 */
-        }
-        .iframe-container iframe {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            top: 0;
-            left: 0;
-            border: none;
-        }
-    </style>
-</head>
-<body>
-    <div class="iframe-container">
-        <iframe loading="lazy" src="https://www.canva.com/design/DAGHsjuth3k/sEXsqU5ZksTg1InTgsgN2w/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
-    </div>
-</body>
-</html>
-
 
 ## Hi there 👋
 
