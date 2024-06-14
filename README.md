@@ -1,31 +1,64 @@
-![Banner de LinkedIn](https://github.com/Floryofre/Floryofre/blob/main/Banner%20de%20LinkedIn%20Lugar%20de%20Trabajo%20Ordenado%20(2).png)
+<p align="center">
+  <img src="https://github.com/Floryofre/Floryofre/blob/main/Banner%20de%20LinkedIn%20Lugar%20de%20Trabajo%20Ordenado%20(2).png" alt="Banner de LinkedIn"/>
+</p>
+
+<h1 align="center">Hi there 👋</h1>
+
+<p align="center">
+  ✓ Como profesional apasionada por la informática y la creatividad, con más de 10 años de experiencia en diversos campos. He desarrollado habilidades clave como la escucha activa, el pensamiento crítico, el trabajo en equipo y el liderazgo.
+</p>
+
+<p align="center">
+  🦉 Mi paso por Henry potenció significativamente mi crecimiento personal y profesional, fortaleciendo mi pensamiento analítico y creativo a través de proyectos de análisis de datos individuales y grupales.
+</p>
+
+<p align="center">
+  👩‍🏫 Actualmente, como TA (Teaching Assistant), coordino grupos de estudiantes, los oriento en sus primeros pasos y promuevo la colaboración grupal.
+</p>
+
+<p align="center">
+  🎯 Estoy en búsqueda de nuevas oportunidades para aplicar mis habilidades y contribuir al éxito de proyectos innovadores. Si estás interesado en conectar o tienes alguna propuesta, no dudes en enviarme un mensaje.
+</p>
+
+<h2 align="center">Herramientas que manejo</h2>
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" style="margin: 0 15px;"/>
+  </a>
+  
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" style="margin: 0 15px;"/>
+  </a>
+
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank">
+  <img src="https://github.com/Floryofre/Floryofre/blob/main/SQL%20Server.png?raw=true" alt="SQL Server" width="40" height="40" style="margin: 0 15px;"/>
+</a>
 
 
-## Hi there 👋
+<a href="https://www.w3schools.com/sql/" target="_blank">
+  <img src="https://github.com/Floryofre/Floryofre/blob/main/sql.jpg?raw=true" alt="SQL" width="40" height="40" style="margin: 0 15px;"/>
+</a>
 
-<!--
-**Floryofre/Floryofre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Contacto</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-✓ Como profesional apasionada por la informática y la creatividad, con más de 10 años de experiencia en diversos campos. He desarrollado habilidades clave como la escucha activa, el pensamiento crítico, el trabajo en equipo y el liderazgo.
+<p align="center">
+  <a href="mailto:maflorencia@gmail.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="18" height="18" style="vertical-align: middle;"/>
+    <span style="vertical-align: middle;">maflorencia@gmail.com</span>
+  </a>
+</p>
+<p align="center">
+  <a href="https://wa.me/5493516821955" target="_blank" style="margin-right: 10px;">
+    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="WhatsApp" width="18" height="18" style="vertical-align: middle;"/>
+    <span style="vertical-align: middle;">WhatsApp</span>
+  </a>
+</p>
 
-🥇 Mi paso por Henry potenció significativamente mi crecimiento personal y profesional, fortaleciendo mi pensamiento analítico y creativo a través de proyectos de análisis de datos individuales y grupales.
-
-✓ Actualmente, como TA (Teaching Assistant), coordino grupos de estudiantes, los oriento en sus primeros pasos y promuevo la colaboración grupal.
-
-🎯 Estoy en búsqueda de nuevas oportunidades para aplicar mis habilidades y contribuir al éxito de proyectos innovadores. Si estás interesado en conectar o tienes alguna propuesta, no dudes en enviarme un mensaje.
-
-📲 Contacto: 
-* 54 9 3516821955
-* mafloriarencia@gmail.com
-* https://linktr.ee/FloryofreDA 
+<p align="center">
+  <a href="https://linktr.ee/FloryofreDA" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 10px; vertical-align: middle;">
+    Mis Redes Profesionales - Ma. Florencia Yofre
+  </a>
+</p>
