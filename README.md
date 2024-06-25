@@ -2,7 +2,11 @@
   <img src="https://github.com/Floryofre/Floryofre/blob/main/Banner%20de%20LinkedIn%20Lugar%20de%20Trabajo%20Ordenado%20(2).png" alt="Banner de LinkedIn"/>
 </p>
 
-<h1 align="center">Hi there 👋</h1>
+<!-- GREETINGS -->
+<h1 align="center">Hi there <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2Yjk2M2VhZDA2MjBlOTk4NmU4ODdhMWM0YzU4YjU1YmM0N2Q0NCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width=60px > I'm Flor! </h1>
+
+
+
 
 <p align="center">
   ✓ Como profesional apasionada por la informática y la creatividad, con más de 10 años de experiencia en diversos campos. He desarrollado habilidades clave como la escucha activa, el pensamiento crítico, el trabajo en equipo y el liderazgo.
