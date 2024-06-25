@@ -48,6 +48,24 @@
 
 </p>
 
+
+<!-- STATS -->
+<h2 align="center">
+  <img alt="Stats" src="https://i.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.webp" width=50px>
+  Github Stats
+</h2> 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=floryofre&show_icons=true&theme=tokyonight&border_radius=20&border_color=252030&bg_color=DEG,1b1526,0a090d" alt="Floryofre's github stats" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=floryofre&&style=for-the-badge" align="center" />
+</div>
+
+
+
+
 <h2 align="center">Contacto</h2>
 
 <p align="center">
