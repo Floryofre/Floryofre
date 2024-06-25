@@ -3,7 +3,9 @@
 </p>
 
 <!-- GREETINGS -->
-<h1 align="center">Hi there <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2Yjk2M2VhZDA2MjBlOTk4NmU4ODdhMWM0YzU4YjU1YmM0N2Q0NCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width=60px > I'm Flor! </h1>
+<h1 align="center">Hola! Bienvenidos! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2Yjk2M2VhZDA2MjBlOTk4NmU4ODdhMWM0YzU4YjU1YmM0N2Q0NCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width=60px > Soy Flor! </h1>
+
+<!--<h1 align="center">Hi there <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2Yjk2M2VhZDA2MjBlOTk4NmU4ODdhMWM0YzU4YjU1YmM0N2Q0NCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width=60px > I'm Flor! </h1>-->
 
 
 
