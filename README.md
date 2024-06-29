@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Floryofre/Floryofre/blob/main/Banner%20de%20LinkedIn%20Lugar%20de%20Trabajo%20Ordenado%20(2).png" alt="Banner de LinkedIn"/>
+  <img src="https://github.com/Floryofre/Floryofre/blob/main/Banner%20de%20LinkedIn%20Lugar%20de%20Trabajo%20Ordenado%20(5).png?raw=true" alt="Banner de LinkedIn"/>
 </p>
 
 <!-- GREETINGS -->
