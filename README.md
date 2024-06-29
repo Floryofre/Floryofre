@@ -7,9 +7,7 @@
 
 <!--<h1 align="center">Hi there <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2Yjk2M2VhZDA2MjBlOTk4NmU4ODdhMWM0YzU4YjU1YmM0N2Q0NCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width=60px > I'm Flor! </h1>-->
 
-
-
-
+<!-- ABOUT ME -->
 <p align="center">
   ✓ Como profesional apasionada por la informática y la creatividad, con más de 10 años de experiencia en diversos campos. He desarrollado habilidades clave como la escucha activa, el pensamiento crítico, el trabajo en equipo y el liderazgo.
 </p>
@@ -63,22 +61,21 @@
   <img src="https://komarev.com/ghpvc/?username=floryofre&&style=for-the-badge" align="center" />
 </div>
 
-
-
-
+<!-- CONTACT -->
 <h2 align="center">Contacto</h2>
 
 <p align="center">
-  <a href="mailto:maflorencia@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="18" height="18" style="vertical-align: middle;"/>
-    <span style="vertical-align: middle;">maflorencia@gmail.com</span>
-  </a>
+ <a href="mailto:mafloriarencia@gmail.com">
+  <img alt="Email" title="Envía un correo" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white">
+</a>
+<span style="margin-left: 6px;"> 🔹(mafloriarencia@gmail.com)🔹 </span>
+<br>
 </p>
 <p align="center">
-  <a href="https://wa.me/5493516821955" target="_blank" style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="WhatsApp" width="18" height="18" style="vertical-align: middle;"/>
-    <span style="vertical-align: middle;">WhatsApp</span>
-  </a>
+<a href="https://wa.me/543516821955?text=Hola!%20Te%20contacto%20desde%20tu%20página%20web">
+  <img alt="WhatsApp" title="Envíame un mensaje en WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white">
+</a>
+<span style="margin-left: 6px;"> 🔹(+54 9 3516 821955)🔹 </span>
 </p>
 
 <p align="center">
@@ -86,3 +83,4 @@
     Mis Redes Profesionales - Ma. Florencia Yofre
   </a>
 </p>
+
