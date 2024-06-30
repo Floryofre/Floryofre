@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linktr.ee/FloryofreDA" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 10px; vertical-align: middle;">
+  <a href="https://lnk.bio/FloryofreDA/about" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 10px; vertical-align: middle;">
     Mis Redes Profesionales - Ma. Florencia Yofre
   </a>
 </p>
