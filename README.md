@@ -66,20 +66,30 @@
 
 <p align="center">
  <a href="mailto:mafloriarencia@gmail.com">
-  <img alt="Email" title="Envía un correo" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white">
+  <img alt="Email" title="Envía un correo" src="https://img.shields.io/badge/Mi Email-D14836?style=flat&logo=Gmail&logoColor=white">
 </a>
 <span style="margin-left: 6px;"> </span>
 <br>
 </p>
 <p align="center">
 <a href="https://wa.me/543516821955?text=Hola!%20Te%20contacto%20desde%20tu%20página%20web">
-  <img alt="WhatsApp" title="Envíame un mensaje en WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white">
+  <img alt="WhatsApp" title="Envíame un mensaje en WhatsApp" src="https://img.shields.io/badge/Mi WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white">
 </a>
 <span style="margin-left: 6px;"> </span>
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/MaFlorenciaYofre/">
+  <img alt="Florencia Yofre" title="Connect with Florencia" src="https://img.shields.io/badge/Ma. Florencia Yofre-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 6px;">
+</p>
+
+<p align="center">
   <a href="https://lnk.bio/FloryofreDA/about" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 10px; vertical-align: middle;">
-    Mis Redes Profesionales - Ma. Florencia Yofre
+    `Mis Redes Profesionales`
   </a>
 </p>
+
+
+
+  
