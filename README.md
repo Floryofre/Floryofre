@@ -57,9 +57,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=floryofre&show_icons=true&theme=tokyonight&border_radius=20&border_color=252030&bg_color=DEG,1b1526,0a090d" alt="Floryofre's github stats" />
 </div>
 
+<p align="center">
+<a href="https://github.com/floryofre">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floryofre&layout=compact&langs_count=8&theme=tokyonight&border_radius=20&border_color=252030&bg_color=DEG,1b1526,0a090d"/>
+</a>
+</p>
+
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=floryofre&&style=for-the-badge" align="center" />
 </div>
+
 
 <!-- CONTACT -->
 <h2 align="center">Contacto</h2>
@@ -89,7 +97,5 @@
     `Mis Redes Profesionales`
   </a>
 </p>
-
-
 
   
