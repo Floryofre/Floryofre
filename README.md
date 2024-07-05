@@ -49,6 +49,7 @@
 
 <!-- STATS -->
 
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -59,7 +60,8 @@
 
 <h2 align="center">
   <img alt="Stats" src="https://i.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.webp" width=50px>
-  Github Stats
+  Github Stats 
+    <img alt="Stats" src="https://i.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.webp" width=50px>
 </h2> 
 
 <div align="center">
