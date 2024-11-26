@@ -84,36 +84,45 @@
 <!-- CONTACT -->
 <h2 align="center">Contacto</h2>
 
-<p align="center">
- <a href="mailto:mafloriarencia@gmail.com">
-  <img alt="Email" title="Envía un correo" src="https://img.shields.io/badge/Mi Email-D14836?style=flat&logo=Gmail&logoColor=white">
-</a>
-<span style="margin-left: 6px;"> </span>
-<br>
-</p>
-<p align="center">
-<a href="https://wa.me/543516821955?text=Hola!%20Te%20contacto%20desde%20tu%20página%20web">
-  <img alt="WhatsApp" title="Envíame un mensaje en WhatsApp" src="https://img.shields.io/badge/Mi WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white">
-</a>
-<span style="margin-left: 6px;"> </span>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/MaFlorenciaYofre/">
-  <img alt="Florencia Yofre" title="Connect with Florencia" src="https://img.shields.io/badge/Ma. Florencia Yofre-0077B5?style=flat&logo=Linkedin&logoColor=white">
-  </a><span style="margin-left: 6px;">
-</p>
-
-<p align="center">
-  <a href="https://lnk.bio/FloryofreDA/about" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 10px; vertical-align: middle;">
-    `Mis Redes Profesionales`
-  </a>
-</p>
+<table align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="mailto:mafloriarencia@gmail.com">
+        <img alt="Email" title="Envía un correo" src="https://img.shields.io/badge/Mi Email-D14836?style=flat&logo=Gmail&logoColor=white">
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://wa.me/543516821955?text=Hola!%20Te%20contacto%20desde%20tu%20página%20web">
+        <img alt="WhatsApp" title="Envíame un mensaje en WhatsApp" src="https://img.shields.io/badge/Mi WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white">
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.linkedin.com/in/MaFlorenciaYofre/">
+        <img alt="Florencia Yofre" title="Connect with Florencia" src="https://img.shields.io/badge/Ma. Florencia Yofre-0077B5?style=flat&logo=Linkedin&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://lnk.bio/FloryofreDA/about" target="_blank" style="text-decoration: none;">
+        <img alt="Mis Redes Profesionales" title="Mis Redes Profesionales" src="https://img.shields.io/badge/Mis Redes Profesionales-000000?style=flat&logo=linktree&logoColor=white">
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.salesforce.com/trailblazer/profile" target="_blank" style="text-decoration: none;">
+        <img alt="Salesforce" title="Trailblazer - Salesforce" src="https://img.shields.io/badge/Trailblazer%20Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- OTROS -->
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=600&height=100&lines=Contactame;Transformemos+Datos+En+Decisiones;Data+Analyst;Python;Power+BI;SQL+Server"></a>
 </p>
+
+
+
 <!--
 <hr>
 <br>
